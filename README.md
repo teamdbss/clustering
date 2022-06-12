@@ -1,7 +1,7 @@
 # Unsupervised machine learning-based profiling in nutrition, exercise and health sciences: An STROBE study example on  anthropometry data from undergraduate students
 - CLUSTERING ANALYSIS
 
-Profiling aims to identify a given group (cluster) of participants where more phenotypic similarities can be found compared to those in other clusters. The advantages of this unsupervised machine learning-based workflow analysis can be reproduced in any other characterization or research project using different data. Thus, the following step-by-step practical recommendations are given to perform a clustering-based profiling:
+Profiling aims to identify a given group (cluster) of participants where more phenotypic similarities can be found compared to those in other clusters. Here, anthropometric data were obtained from 319 freshman students (277F, 42M; 19.9±3.2 years; 58.8±12.2 kg; 162.1±7.9 cm). The aim of this study was twofold: i) to profile body composition and morphological features in freshman students of the Nutrition and Dietetics major at Universidad CES based on anthropometry-based (raw and derived) indices using clustering-based methods, and ii) to establish a practical workflow analysis of unsupervised machine learning-based profiling using different developed clustering methods that can be performed by researchers in different fields. The advantages of this unsupervised machine learning-based workflow analysis can be reproduced in any other characterization or research project using different data. Thus, the following step-by-step practical recommendations are given to perform a clustering-based profiling:
  
 1.	Explore the data and import the database. It is important to clean the data for NA. 
 
